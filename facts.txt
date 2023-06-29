@@ -1,0 +1,6 @@
+package.json
+============
+
+"start": "tsc --watch"
+in 'npm start'
+automatically regenerate js-files of changed ts-files

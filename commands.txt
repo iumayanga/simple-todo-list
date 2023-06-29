@@ -1,0 +1,3 @@
+npm uninstall @types/uuid --save-dev =>
+to remove development-dependencies
+    @types/uuid => dependency-name
